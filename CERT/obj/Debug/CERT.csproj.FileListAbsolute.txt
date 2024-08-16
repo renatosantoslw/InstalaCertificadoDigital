@@ -1,0 +1,32 @@
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\obj\Debug\CERT.frmInputBox.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\obj\Debug\CERT.frmPrincipal.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\obj\Debug\CERT.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\obj\Debug\CERT.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\bin\Debug\CERT.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\bin\Debug\CERT.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\bin\Debug\CERT.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\obj\Debug\CERT.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\obj\Debug\CERT.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\CERT\CERT\obj\Debug\CERT.csprojResolveAssemblyReference.cache
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\bin\Debug\CERT.exe.config
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\bin\Debug\CERT.exe
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\bin\Debug\CERT.pdb
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\obj\Debug\CERT.csproj.AssemblyReference.cache
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\obj\Debug\CERT.frmInputBox.resources
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\obj\Debug\CERT.frmPrincipal.resources
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\obj\Debug\CERT.Properties.Resources.resources
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\obj\Debug\CERT.csproj.GenerateResource.cache
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\obj\Debug\CERT.csproj.CoreCompileInputs.cache
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\obj\Debug\CERT.exe
+D:\BACKUP_PC_RENATO\repos\repos\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\CERT\CERT\obj\Debug\CERT.pdb
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\bin\Debug\CERT.exe.config
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\bin\Debug\CERT.exe
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\bin\Debug\CERT.pdb
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\obj\Debug\CERT.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\obj\Debug\CERT.frmInputBox.resources
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\obj\Debug\CERT.frmPrincipal.resources
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\obj\Debug\CERT.Properties.Resources.resources
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\obj\Debug\CERT.csproj.GenerateResource.cache
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\obj\Debug\CERT.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\obj\Debug\CERT.exe
+C:\REPOSITORIOS\INSTALA E CONVERTE CERTIFICADO DIGITAL PFX EM TEXTO\InstalaCertificadoDigital\CERT\obj\Debug\CERT.pdb
